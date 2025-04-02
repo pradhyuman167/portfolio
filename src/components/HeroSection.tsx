@@ -49,7 +49,7 @@ const HeroSection = () => {
               <div className="w-64 h-64 md:w-80 md:h-80 rounded-full bg-white overflow-hidden border-4 border-white shadow-lg relative z-10">
                 <div className="w-full h-full bg-gray-200 flex items-center justify-center text-gray-500">
                   {/* Replace with your actual image */}
-                  <span className="text-lg font-medium"><img src="public/pradhyuman-image.png" alt="" /></span>
+                  <span className="text-lg font-medium"><img src="/public/pradhyuman-image.png" alt="" /></span>
                 </div>
               </div>
             </div>

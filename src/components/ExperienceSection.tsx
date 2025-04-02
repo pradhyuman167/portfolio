@@ -7,8 +7,8 @@ import { Badge } from '@/components/ui/badge';
 const experienceData = [
   {
     title: "Senior Frontend Developer",
-    company: "Tech Innovations Inc.",
-    duration: "2021 - Present",
+    company: "Microcom International",
+    duration: "2024 - Present",
     description: "Leading frontend development for multiple projects, mentoring junior developers, and implementing best practices for code quality and performance optimization.",
     achievements: [
       "Improved application performance by 40% through code optimization and implementing lazy loading techniques.",
@@ -17,22 +17,22 @@ const experienceData = [
     ],
     skills: ["React", "TypeScript", "Redux", "Next.js", "Performance Optimization"]
   },
-  {
-    title: "Full Stack Developer",
-    company: "Digital Solutions Group",
-    duration: "2018 - 2021",
-    description: "Developed and maintained full-stack applications using React, Node.js, and MongoDB. Collaborated with cross-functional teams to deliver high-quality web solutions.",
-    achievements: [
-      "Built a customer dashboard that increased user engagement by 35%.",
-      "Implemented automated testing that reduced QA time by 20%.",
-      "Integrated third-party APIs to extend application functionality."
-    ],
-    skills: ["React", "Node.js", "Express", "MongoDB", "RESTful APIs"]
-  },
+  // {
+  //   title: "Full Stack Developer",
+  //   company: "Digital Solutions Group",
+  //   duration: "2018 - 2021",
+  //   description: "Developed and maintained full-stack applications using React, Node.js, and MongoDB. Collaborated with cross-functional teams to deliver high-quality web solutions.",
+  //   achievements: [
+  //     "Built a customer dashboard that increased user engagement by 35%.",
+  //     "Implemented automated testing that reduced QA time by 20%.",
+  //     "Integrated third-party APIs to extend application functionality."
+  //   ],
+  //   skills: ["React", "Node.js", "Express", "MongoDB", "RESTful APIs"]
+  // },
   {
     title: "Junior Web Developer",
-    company: "Creative Web Services",
-    duration: "2016 - 2018",
+    company: "Microcom International",
+    duration: "2023 - 2024",
     description: "Designed and developed responsive websites for clients across various industries. Worked closely with design team to implement pixel-perfect UIs.",
     achievements: [
       "Developed over 20 client websites with responsive designs.",
